@@ -23,13 +23,3 @@ A learning project that demonstrates OOP concepts (classes, methods, basic state
 - Simple CLI input and output  
 - Basic payment simulation with coins
 
----
-
-## How to run (Windows PowerShell / Git Bash / macOS Linux)
-1. Install Python 3.8+ (if not already installed).  
-2. (Optional) create & activate virtual env:
-
-**Windows PowerShell**
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate
